@@ -20,45 +20,40 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <strong>Languages & Databases:</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
-  
-  <br/>
-  <strong>Business Intelligence & Data Tools:</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://svgshare.com/i/13eK.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
+<h2 align="center">🚀 My Skillset</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
   <br/>
-  <strong>Other Tools:</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="[YOUR-LINKEDIN-LINK]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="[YOUR-LINKEDIN-LINK]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:duong.vu.bbs20@eiu.edu.vn" target="blank">
+  <a href="mailto:duong.vu.bbs20@eiu.edu.vn" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 My Stats:</h3>
+<h2 align="center">📈 GitHub Analytics</h2>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuongvuBBS20&show_icons=true&locale=en&theme=tokyonight" alt="DuongvuBBS20" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuongvuBBS20&layout=compact&locale=en&theme=tokyonight" alt="DuongvuBBS20" />
-</p>
-<p align="center">
-  <img align="center" src="https://readme-streak-stats.vercel.app/?user=DuongvuBBS20&theme=tokyonight" alt="DuongvuBBS20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuongvuBBS20&show_icons=true&locale=en&theme=dark" alt="DuongvuBBS20's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuongvuBBS20&layout=compact&locale=en&theme=dark" alt="Top Languages" />
+  <br/>
+  <img src="https://readme-streak-stats.vercel.app/?user=DuongvuBBS20&theme=dark" alt="GitHub Streak" />
 </p>

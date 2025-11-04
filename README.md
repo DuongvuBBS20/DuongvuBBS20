@@ -1,8 +1,6 @@
 <!-- 🌟 README của Duong Vu | Business Analytics Student -->
 <div align="center">
   
-  <!-- Banner -->
-  <img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" width="100%" alt="Business Analytics Banner"/>
 
   <h1>Hi there 👋, I'm <span style="color:#00BFFF;">Duong Vu</span></h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">

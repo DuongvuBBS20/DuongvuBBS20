@@ -62,13 +62,7 @@
 🎯 I love solving analytical puzzles and visualizing data trends  
 ☕ Coffee + Excel = My perfect study combo  
 📚 Always learning something new in Python and Power BI  
-🎧 Enjoy listening to lo-fi music while coding  
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00BFFF&line=1DA1F2&point=FFFFFF" width="100%"/>
-</p>
+🎧 Enjoy listening to vinahouse music while coding  
 
 ---
 

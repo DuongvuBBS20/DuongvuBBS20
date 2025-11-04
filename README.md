@@ -33,27 +33,4 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
 
-<h2 align="center">📫 Let's Connect!</h2>
-
-<p align="center">
-  <a href="[YOUR-LINKEDIN-LINK]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:duong.vu.bbs20@eiu.edu.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuongvuBBS20&show_icons=true&locale=en&theme=dark" alt="DuongvuBBS20's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuongvuBBS20&layout=compact&locale=en&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://readme-streak-stats.vercel.app/?user=DuongvuBBS20&theme=dark" alt="GitHub Streak" />
-</p>

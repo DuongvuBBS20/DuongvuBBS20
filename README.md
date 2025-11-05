@@ -21,14 +21,15 @@
 - 🌱 Currently improving **Python**, **Pandas**, and **SQL**.  
 - 💬 Ask me about **Data Analytics, SQL queries, BI reports**.  
 - 📫 Contact: **duong.vu.bbs20@eiu.edu.vn**
-
-    </td>
+ 
+   </td>
     <td align="center" width="40%">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlwY3pqdGpvc2F5MHVtM3A0aHJxazgwcHYxaWdrZ3R6aTlodTMwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utK0zq5Meln1ZGZVki/giphy.gif" width="250" alt="Coding GIF">
     </td>
   </tr>
 </table>
 
+---
 
 ## 🧠 My Skillset  
 <p align="center">

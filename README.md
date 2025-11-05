@@ -43,32 +43,49 @@
 
 ---
 
-## 🎯 Learning Goals 2025  
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c5c2ZuOXJ6ZjJ0cjNhemh2aHo2Z2o0dnF2OGQzMG0ycGptZHBkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Learning GIF">
-</p>
+## 🎯 Learning Goals 2025
 
-- 🐍 Master Python automation, data cleaning & analytics.  
-- 📊 Advance my **Power BI dashboard storytelling** skills.  
-- 🤖 Learn **Machine Learning fundamentals** for predictive analytics.  
-- 💾 Improve in **Advanced SQL** & performance tuning.  
-- 📚 Work with more **real business datasets** & case studies.
+<table>
+  <tr>
+    <td align="center" width="40%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF3OTliYW1xYmduZzM4a2Z1cm1oMmZydW5vbDJpNXZwN3JkZDJkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="250" alt="Learning Goals GIF">
+    </td>
+    <td width="60%">
 
----
+- 🐍 Master **Python** for data cleaning, transformation, and automation  
+- 📊 Improve dashboard storytelling with **Power BI**  
+- 🤖 Learn **Machine Learning basics** for predictive analytics  
+- 💾 Strengthen **SQL** for performance optimization  
+- 📚 Work with real-world business datasets and case studies  
 
-## ☕ Fun Facts  
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FqYTl0cjNtaWNqdTc5NmxmYWJxZzY1dGs0YXpld2p5aTZrbWU5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Fun GIF">
-</p>
-
-- 💭 I enjoy solving analytical problems & visualizing data stories.  
-- ☕ Coffee + Excel = my favorite study combo.  
-- 📘 Constantly learning new things in Python & BI tools.  
-- 🎧 I code better with VinaHouse music.
+    </td>
+  </tr>
+</table>
 
 ---
 
+## ☕ Fun Facts
+
+<table>
+  <tr>
+    <td width="60%">
+      
+- 💭 I love solving analytical problems and visualizing data.  
+- ☕ Coffee + Excel = perfect productivity combo.  
+- 🧠 Always learning new **Python tricks** and **BI design hacks**.  
+- 🎧 Focus better with soft house music while working.  
+- 💡 Believe that every dataset hides a great story waiting to be told.  
+
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml4bm1hbTd6cTVsN21tcHVhc3pyaHNnM2x4c2tzYzlya3VqaGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Coffee Work GIF">
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
-  <i>"Turning data into stories that drive smart decisions."</i><br/>
+  <i>"Turning data into stories that drive smarter business decisions."</i><br>
   ✨ <b>Duong Vu • Business Analytics @ EIU</b> ✨
 </p>

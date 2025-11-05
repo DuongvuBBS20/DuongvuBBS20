@@ -24,7 +24,7 @@
 
     </td>
     <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE2cGcxMGpxdG4yZ2ZmYWRkNmYwcTZ4bnpsamJlOHd0Y3o1dWJ0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="250" alt="Coding GIF">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlwY3pqdGpvc2F5MHVtM3A0aHJxazgwcHYxaWdrZ3R6aTlodTMwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utK0zq5Meln1ZGZVki/giphy.gif" width="250" alt="Coding GIF">
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center" width="40%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c5c2ZuOXJ6ZjJ0cjNhemh2aHo2Z2o0dnF2OGQzMG0ycGptZHBkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Learning GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbjFvdmhjanJpbHQ2cTEybjd3bWJvN2huZGY4dnUzMmJtbGw1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="260" alt="Learning GIF">
     </td>
     <td width="60%">
 

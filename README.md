@@ -8,6 +8,9 @@
 
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="data gif"/>
 </div>
+<p align="right">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="learning gif"/>
+</p>
 
 ---
 

@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center" width="40%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF3OTliYW1xYmduZzM4a2Z1cm1oMmZydW5vbDJpNXZwN3JkZDJkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="250" alt="Learning Goals GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c5c2ZuOXJ6ZjJ0cjNhemh2aHo2Z2o0dnF2OGQzMG0ycGptZHBkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Learning GIF">
     </td>
     <td width="60%">
 

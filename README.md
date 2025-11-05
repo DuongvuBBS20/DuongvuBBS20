@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="800" alt="Data Coding Banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmsxbTNlZjJ5YmdjN2RnOHp2N2hxamVrOHBzN3J6cGRmOXRvZzFwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR1U7VWSzR2b0Ww/giphy.gif" width="800" alt="Data Coding Banner">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Duong Vu</h1>
@@ -8,85 +8,65 @@
 
 ---
 
-<!-- ======================= THREE SECTIONS (balanced) ======================= -->
-
-<!-- Notes:
-  - Layout uses a table with two columns: left = image (40%), right = text (60%).
-  - Images have the same displayed width to keep rows visually balanced.
-  - Text blocks have similar length so each section appears equal in height.
--->
-
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Professional Coding" width="260" style="max-width:100%;"/>
-    </td>
-    <td width="60%" valign="middle">
-- 👋 I'm **Duong Vu**, a 24-year-old university student majoring in Business Administration with a focus on **Business Analytics**.  
-- 💡 I'm passionate about turning messy data into clear, actionable insights that support better business decisions.  
-- 📊 I enjoy building dashboards, exploring datasets, and telling stories through visualization (Power BI & Excel).  
-- 🌱 Currently sharpening skills in **Python (Pandas)**, **SQL**, and **Power BI storytelling**.  
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE2cGcxMGpxdG4yZ2ZmYWRkNmYwcTZ4bnpsamJlOHd0Y3o1dWJ0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="280" alt="Coding GIF">
+</p>
+
+- 👋 I’m a **Business Analytics student** passionate about transforming data into meaningful insights.  
+- 💡 Interested in **Data Analysis, Business Intelligence, and Applied Python** for real-world business problems.  
+- 📊 Love creating dashboards & visual stories using **Power BI** and **Excel**.  
+- 🔍 Enjoy finding patterns, trends, and making sense of messy data.  
+- 🌱 Currently improving **Python**, **Pandas**, and **SQL**.  
+- 💬 Ask me about **Data Analytics, SQL queries, BI reports**.  
 - 📫 Contact: **duong.vu.bbs20@eiu.edu.vn**
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 🧠 Skillset & Contacts
+## 🧠 My Skillset
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-<p align="center">
-  🔗 <a href="https://github.com/duongvubbs">GitHub</a> • 🔗 <a href="https://www.linkedin.com/in/duong-vu-bbs">LinkedIn</a> • ✉️ <a href="mailto:duong.vu.bbs20@eiu.edu.vn">Email me</a>
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical_Thinking-673AB7?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🎯 Learning Goals 2025
 
-<table>
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" alt="Learning Goals" width="260" style="max-width:100%;"/>
-    </td>
-    <td width="60%" valign="middle">
-- 🐍 **Master Python** for data cleaning, transformation and automation.  
-- 📈 **Improve dashboard storytelling**: craft clear, persuasive reports in Power BI.  
-- 🤖 **Learn ML basics** to apply simple predictive models to business problems.  
-- 💾 **Advance SQL** skills: complex queries & performance tuning.  
-- 📚 Gain hands-on experience with **real business case studies** and datasets.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR6MTlzbGU1OGtzY2h1ZDhncTB4YzlqbTg3N201MGNiMXg3YzBpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300">
+</p>
+
+- 🐍 Master Python for data cleaning & automation  
+- 📊 Improve dashboard storytelling with Power BI  
+- 🤖 Learn ML fundamentals for predictive analytics  
+- 💾 Explore advanced SQL for optimization  
+- 📚 Work with real datasets & business case studies  
 
 ---
 
 ## ☕ Fun Facts
 
-<table>
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coffee Work" width="260" style="max-width:100%;"/>
-    </td>
-    <td width="60%" valign="middle">
-- 🎯 I love solving analytical puzzles and turning them into simple visual stories.  
-- ☕ Coffee + Excel = my productivity formula for tough tasks.  
-- 🏸 I enjoy playing badminton and staying active — teamwork both on court and in projects.  
-- 🎧 Focus better with soft house / lo-fi music while coding or preparing dashboards.  
-- 💡 I believe every dataset hides a story — my job is to help it speak clearly.
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxudmtoMGdzNDZyZzV2M2d3M3Y3bmVocGdwYnE3aWswanF4cjA4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NgurY1o4z080Jfoyzw/giphy.gif" width="180">
+</p>
+
+- 💭 I love solving analytical puzzles  
+- ☕ Coffee + Excel = perfect combo  
+- 🧠 Always learning new Python tricks  
+- 🎧 I code better with music  
+- 📈 Data makes everything more interesting  
+
+---
 
 <p align="center">
-  <i>"Turning data into stories that drive smarter business decisions."</i><br>
+  <i>"Turning data into stories that drive smart decisions."</i><br>
   ✨ <b>Duong Vu • Business Analytics @ EIU</b> ✨
 </p>

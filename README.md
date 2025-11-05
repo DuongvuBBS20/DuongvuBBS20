@@ -1,5 +1,5 @@
 <!-- ======================= HEADER BANNER ======================= -->
-<h1 align="center">Hello 👋, I'm Duong Vu</h1>
+<h1 align="center">Hello👋, I'm Duong Vu</h1>
 <h3 align="center">📊 Business Analytics Student @ Eastern International University (EIU)</h3>
 
 ---

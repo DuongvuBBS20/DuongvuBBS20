@@ -1,24 +1,28 @@
 <!-- 🌟 README của Duong Vu | Business Analytics Student -->
-<div align="center">
-  
+<!-- Banner section -->
+<p align="center">
+  <img src="https://your-image-link-here.gif" alt="Coding Banner" width="800"/>
+</p>
 
-  <h1>Hi there 👋, I'm <span style="color:#00BFFF;">Duong Vu</span></h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-  <h3>📊 Business Analytics Student @ Eastern International University (EIU)</h3>
-
-
+<h1 align="center">Hi there 👋, I'm Duong Vu</h1>
+<h3 align="center">📊 Business Analytics Student @ Eastern International University (EIU)</h3>
 
 ---
 
-## 💫 About Me  
+### 👨‍💻 About Me
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://your-aboutme-gif-here.gif"/>
+</p>
 
-👋 I’m a **Business Analytics student** passionate about transforming data into meaningful insights.  
-💡 My interests lie in **Data Analysis, Business Intelligence, and Applied Python** for solving real-world business problems.  
-📈 I enjoy working with data, uncovering trends, and creating visual stories through **Power BI** and **Excel Dashboards**.  
+- 👋 I’m a **Business Analytics student** passionate about transforming data into meaningful insights.  
+- 💡 My interests lie in **Data Analysis, Business Intelligence, and Applied Python** for solving real-world business problems.  
+- 📈 I enjoy working with data, uncovering trends, and creating visual stories through **Power BI** and **Excel Dashboards**.  
+- 🌱 I’m currently improving my **Python** and **SQL** skills.  
+- 💬 Ask me about **Data Analytics, SQL queries, or BI reports**.  
+- 📫 Contact me at: [duong.vu.bbs20@eiu.edu.vn](mailto:duong.vu.bbs20@eiu.edu.vn)
 
-- 🌱 I’m currently improving my **Python** and **SQL** skills  
-- 💬 Ask me about **Data Analytics**, **SQL queries**, or **BI reports**  
-- 📫 Contact me: **duong.vu.bbs20@eiu.edu.vn**
+---
+
 
 ---
 

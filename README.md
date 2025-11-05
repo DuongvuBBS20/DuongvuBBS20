@@ -1,9 +1,5 @@
 <!-- ======================= HEADER BANNER ======================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHc5dHRnNHg2dG51bm54N3c2MmdyczVhd3RreGc1bGZlZ2dpdXphZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif" width="300" alt="Welcome Animation">
-</p>
-
-<h1 align="center">Hi there 👋, I'm Duong Vu</h1>
+<h1 align="center">Hello 👋, I'm Duong Vu</h1>
 <h3 align="center">📊 Business Analytics Student @ Eastern International University (EIU)</h3>
 
 ---

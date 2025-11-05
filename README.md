@@ -8,20 +8,26 @@
 
 ---
 
-## 👨‍💻 About Me  
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc2eHFqcDBudm9vajZpYmhnc3UzZzg4bnRmMm16dHAxdWhsbzk3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YYW0hHizzIOrlhimPG/giphy.gif" width="260" alt="Coding GIF">
-</p>
+## 👨‍💻 About Me
 
-- 👋 I'm a **Business Analytics student** passionate about transforming data into meaningful insights.  
-- 💡 I’m interested in **Data Analysis, Business Intelligence, and Applied Python**.  
-- 📈 I love uncovering trends and creating compelling visual dashboards using **Power BI** & **Excel**.  
-- 🌱 Currently improving my **Python** (Pandas) and **SQL** skills.  
-- 💬 Ask me about **Data Analytics**, **SQL queries**, or **BI reports**.  
-- 📫 Contact me: **duong.vu.bbs20@eiu.edu.vn**
+<table>
+  <tr>
+    <td width="60%">
+      
+- 👋 I’m a **Business Analytics student** passionate about transforming data into meaningful insights.  
+- 💡 Interested in **Data Analysis, Business Intelligence, and Applied Python** for real-world business problems.  
+- 📊 Love creating dashboards & visual stories using **Power BI** and **Excel**.  
+- 🔍 Enjoy finding patterns, trends, and making sense of messy data.  
+- 🌱 Currently improving **Python**, **Pandas**, and **SQL**.  
+- 💬 Ask me about **Data Analytics, SQL queries, BI reports**.  
+- 📫 Contact: **duong.vu.bbs20@eiu.edu.vn**
 
-<br/>
-
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE2cGcxMGpxdG4yZ2ZmYWRkNmYwcTZ4bnpsamJlOHd0Y3o1dWJ0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="250" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧠 My Skillset  

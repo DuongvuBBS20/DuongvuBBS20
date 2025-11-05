@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%">
       
 - 👋 I’m a **Business Analytics student** passionate about transforming data into meaningful insights.  
 - 💡 Interested in **Data Analysis, Business Intelligence, and Applied Python** for real-world business problems.  
@@ -19,7 +19,7 @@
 - 📫 Contact: **duong.vu.bbs20@eiu.edu.vn**
  
    </td>
-    <td align="center" width="40%">
+    <td align="center" width="30%">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlwY3pqdGpvc2F5MHVtM3A0aHJxazgwcHYxaWdrZ3R6aTlodTMwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utK0zq5Meln1ZGZVki/giphy.gif" width="250" alt="Coding GIF">
     </td>
   </tr>
@@ -44,10 +44,10 @@
 
 <table>
   <tr>
-    <td align="center" width="40%">
+    <td align="center" width="30%">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbjFvdmhjanJpbHQ2cTEybjd3bWJvN2huZGY4dnUzMmJtbGw1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="260" alt="Learning GIF">
     </td>
-    <td width="60%">
+    <td width="70%">
 
 - 🐍 Master **Python** for data cleaning, transformation, and automation  
 - 📊 Improve dashboard storytelling with **Power BI**  
@@ -65,7 +65,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%">
       
 - 💭 I love solving analytical problems and visualizing data.  
 - ☕ Coffee + Excel = perfect productivity combo.  
@@ -74,7 +74,7 @@
 - 💡 Believe that every dataset hides a great story waiting to be told.  
 
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="30%">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtNXA1c3pydTdidWNpcWg5ZWNlZ3J3M2R2MTFkaGg3MGUxeWowZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gWJxxH8es7wnM19P4x/giphy.gif" width="250" alt="Coffee Work GIF">
     </td>
   </tr>

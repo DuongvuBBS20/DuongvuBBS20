@@ -78,7 +78,7 @@
 
     </td>
     <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml4bm1hbTd6cTVsN21tcHVhc3pyaHNnM2x4c2tzYzlya3VqaGp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Coffee Work GIF">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtNXA1c3pydTdidWNpcWg5ZWNlZ3J3M2R2MTFkaGg3MGUxeWowZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gWJxxH8es7wnM19P4x/giphy.gif" width="250" alt="Coffee Work GIF">
     </td>
   </tr>
 </table>

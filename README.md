@@ -3,11 +3,16 @@
 <h3 align="center">📊 Business Analytics Student @ Eastern International University (EIU)</h3>
 
 ---
+
+
+
 <img src="assets/pixel-banner.svg" width="100%"/>
 
 <a href="https://github.com/DuongvuBBS20">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E5395&center=true&vCenter=true&width=750&lines=Vu+Dong+Duong+%7C+Business+Analytics+Student+%40+EIU;Aiming+to+bring+data-driven+decisions+to+healthcare+%26+e-commerce;Off+the+clock%3A+gaming+and+exploring+LLMs+%2F+NLP" alt="Typing SVG" />
 </a>
+
+
 
 ---
 ## 👨‍💻 About Me

@@ -3,7 +3,8 @@
 <h3 align="center">📊 Business Analytics Student @ Eastern International University (EIU)</h3>
 
 ---
-<img src="assets/pixel-banner.svg" width="100%"/>
+<img src="assets/pixel-banner.png" width="100%"/>
+
 ---
 ## 👨‍💻 About Me
 
